@@ -1,4 +1,5 @@
 ﻿using tabuleiro;
+using System.Collections.Generic;
 
 namespace xadrez1{
     class PosicaoXadrez{
